@@ -1,8 +1,8 @@
 <!-- ![logo](https://github.com/savarniknandinee/savarniknandinee/blob/main/Make%20your%20README.png) -->
 <h1 align="center">Hi 👋, I'm Meraj Hussain.</h1>
-<h3 align="center">Just another web developer who occasionally remembers to close div tags and dreams in semicolons. CSS is my nemesis, and JavaScript is my love-hate relationship. Saving the world, one bug at a time... or maybe creating a few more.</h3>
+<h3 align="center">Just another web developer who occasionally remembers to close div tags and dreams in semicolons. Saving the world, one bug at a time... or maybe creating a few more.</h3>
 
-<!-- <img align="right" alt="coding gif" width=400px src="https://github.com/savarniknandinee/savarniknandinee/blob/main/output-onlinegiftools.gif"> -->
+<img align="right" alt="coding gif" width=400px src="https://gifdb.com/programming">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MERAJ-droid&label=Profile%20views&color=0e75b6&style=flat" alt="MERAJ-droid" /> </p>
 
