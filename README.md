@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nytrixis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nytrixis" height="30" width="40" /></a>
-<a href="https://instagram.com/nytrixis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nytrixis" height="30" width="40" /></a>
-<a href="https://x.com/nytrixis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nytrixis" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/nytrixis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nytrixis" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nandineesavarnik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nandineesavarnik/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/meraj00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nytrixis" height="30" width="40" /></a>
+<a href="https://instagram.com/nymeraj__477trixis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meraj__477" height="30" width="40" /></a>
+<!-- <a href="https://x.com/nytrixis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nytrixis" height="30" width="40" /></a> -->
+<!-- <a href="https://discordapp.com/users/nytrixis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nytrixis" height="30" width="40" /></a> -->
+<!-- <a href="https://www.geeksforgeeks.org/user/nandineesavarnik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nandineesavarnik/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
