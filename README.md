@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Starflix - Exploring celestial formations through ML.**
 
-- 🌱 I’m currently learning **AI/ML.**
+- 🌱 Currently exploring  **backend development & decentralized applications.**
 
 - 👨‍💻 All of my projects are available [here.](here.)
 
